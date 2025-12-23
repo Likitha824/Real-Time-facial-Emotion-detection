@@ -1,6 +1,6 @@
 # Real-Time Facial Emotion Detection
 
-A deep learning–based system that recognizes **human emotions in real time** using facial expressions.  
+A deep learning–based model that recognizes **human emotions in real time** using facial expressions.  
 This project compares a **baseline CNN** with an advanced **ResEmoteNet architecture** to understand how model design impacts real-time performance.
 
 ---
