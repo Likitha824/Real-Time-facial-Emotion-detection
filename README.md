@@ -21,7 +21,7 @@ The system classifies **seven core emotions**:
 
 ---
 
-## Key Features
+## 🔑 Key Features
 
 - Two deep learning models:
   - **CNN** — a strong, efficient baseline
