@@ -55,10 +55,14 @@ data/
 
 ## ▶️ How to Run
 - Install dependencies
+```
 pip install -r requirements.txt
+```
 
 - Run real-time emotion detection
+```
 python scripts/realtime_inference.py
+```
 
 ## 📊 Dataset & Training
 
